@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'hết dỗi nha iêu nè',
+    messDesc: 'hết dỗi nha iêu nè hihi',
     btnAccept: 'daaaa',
     messLink: 'https://github.com/zukahai/Confess-Crush' //https://www.facebook.com/messages/t/100009831998167
 }
